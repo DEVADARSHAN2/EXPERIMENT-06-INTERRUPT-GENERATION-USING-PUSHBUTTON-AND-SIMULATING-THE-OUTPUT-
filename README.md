@@ -120,4 +120,4 @@ REG NO:212222110007
 
  
 ## Result :
-Interfacing a push button and interrupt genrateion is simulated using proteus 
+Interfacing a push button and interrupt genrateion is simulated using proteus.
